@@ -1,0 +1,11 @@
+.ylytic-tip{
+    background-color: rgb(11, 192, 162);
+    color: white;
+    border-radius: 20px;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.250);
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 0.1rem;
+    padding-bottom: 0.3rem;
+    margin: 0rem auto;
+}

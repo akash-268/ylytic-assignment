@@ -1,0 +1,11 @@
+img{
+    width: 7rem;
+    height: 7rem;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: space-between;
+}

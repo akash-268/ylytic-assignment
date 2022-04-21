@@ -1,0 +1,40 @@
+.aov-main{
+    border-radius: 20px;
+    margin-top: 1rem;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.250);
+    width: 48%;
+}
+
+.aov{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: #ff903f;
+    padding: 10px;
+    color: white;
+}
+
+.aov-content-overview{
+    background-color: white;
+    border-radius: 20px;
+}
+.aov-content{
+    padding: 7%;
+    /* padding-left: 7%; */
+}
+
+.aov.price{
+    padding-bottom: 50px;
+}
+
+.aov-discount{
+    color: #6de77c;
+}
+
+.caption{
+    color: rgba(0, 0, 0, 0.336);
+    font-size: smaller;
+}
+
+h1{
+    margin-top: 0;
+}

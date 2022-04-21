@@ -1,0 +1,64 @@
+.sales-main{
+    border-radius: 20px;
+    margin-top: 1rem;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.250);
+}
+
+.sales{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: #9e45ff;
+    padding: 10px;
+    color: white;
+}
+
+.sales-content-overview{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+    border-radius: 20px;
+}
+.sales-content{
+    padding: 7%;
+    /* padding-left: 7%; */
+}
+
+.sales.price{
+    padding-bottom: 50px;
+}
+
+.discount{
+    color: #6de77c;
+}
+
+.caption{
+    color: rgba(0, 0, 0, 0.336);
+    font-size: smaller;
+}
+
+.progress-ring{
+    width: 115px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.progress-ring-text{
+    font-size: xx-small;
+    position: relative;
+    left: 33px;
+    bottom: 55px;
+}
+
+.weekly-target{
+    font-size: xx-small;
+    position: relative;
+    bottom: 20px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+h1{
+    margin-top: 0;
+}
