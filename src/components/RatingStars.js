@@ -16,7 +16,7 @@ function RatingStars() {
       <ReactStars
         count={5}
         onChange={showModalHandler}
-        size={120}
+        size={80}
         activeColor="#ffd700"
         value={stars}
       />

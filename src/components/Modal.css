@@ -22,7 +22,25 @@
     padding: 1%;
     position: relative;
     bottom: 10%;
+    /* width: 80%; */
+    height: auto;
 }
+@media(max-width:400px){
+    .modal{
+        height: 145vh;
+        width: 110%;
+    }
+    .modal-card{
+        bottom: 15%;
+    }
+}
+ @media(max-width:400px){
+     .modal-card{
+     /* background-color: yellow; */
+     width: 70%;
+     height: auto;
+     }
+ }
 
 .text-area{
     display: flex;
